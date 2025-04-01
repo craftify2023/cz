@@ -160,7 +160,9 @@ footer {
 }
 
 body {
-    background: url('./images/IMG_3785.jpg') center/cover no-repeat fixed;
+    background: url('./images/IMG_3785.jpg') ;
+    background-size: cover;
+    background-position: center;
 }
 
 img {
